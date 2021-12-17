@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tnnixon
+- 👋 Hi, I’m Tiera.
 - 👀 I’m interested in data science and analytics.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
