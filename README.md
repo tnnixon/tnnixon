@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Tiera.
-- 👀 I’m interested in data science and analytics.
+- 👀 I’m interested in data science and analytics for business analysis.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 tieranix@gmail.com
 
 <!---
 tnnixon/tnnixon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
