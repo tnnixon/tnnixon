@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tiera.
 - 👀 I’m interested in data science and analytics for business analysis.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Python, SQL, and Tableau.
 - 📫 tieranix@gmail.com
 
 <!---
